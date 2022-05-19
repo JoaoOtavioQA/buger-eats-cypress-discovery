@@ -1,0 +1,55 @@
+{
+    "signup":{
+        "nome": "João Otávio",
+        "cpf": "00000014141",
+        "email": "jota@hotmail.com",
+        "whatsapp": "21999999999",
+        "endereco": {
+            "cep": "23058260",
+            "rua": "Rua Guatapara",
+            "numero": "14",
+            "complemento": "casa 2",
+            "bairro": "Cosmos",
+            "cidade_uf": "Rio de Janeiro/RJ"
+
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "nome": "Fabricia Vizeu",
+        "cpf": "X00000141AA",
+        "email": "vizeu@hotmail.com",
+        "whatsapp": "21999999999",
+        "endereco": {
+            "cep": "23058260",
+            "rua": "Rua Guatapara",
+            "numero": "14",
+            "complemento": "casa 2",
+            "bairro": "Cosmos",
+            "cidade_uf": "Rio de Janeiro/RJ"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv":{
+        "nome": "João Otávio",
+        "cpf": "00000014141",
+        "email": "joao.com.br",
+        "whatsapp": "21999999999",
+        "endereco": {
+            "cep": "23058260",
+            "rua": "Rua Guatapara",
+            "numero": "14",
+            "complemento": "casa 2",
+            "bairro": "Cosmos",
+            "cidade_uf": "Rio de Janeiro/RJ"
+
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+    
+}
